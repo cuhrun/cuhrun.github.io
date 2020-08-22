@@ -1,0 +1,49 @@
+#+title: Important Circulars -- Dept of Cooperation
+#+author: Karanpal Singh
+
+* Recent Circulars (Unsorted)
+
+| Number | Date | Title/Link | Subject |
+|--------+------+------------+---------|
+|        |      |            |         |
+|        |      |            |         |
+
+* Schemes
+
+** BGSSS 2020-21
+
+| Number         |       Date | Title/Link           | Subject                          |
+|----------------+------------+----------------------+----------------------------------|
+| ਬੀ.ਜੀ.ਟੀ./1277 | 05-03-2020 | [[file:docs/bgsss_2020-21.pdf][Main scheme document]] | ਭਾਈ ਘਨਈਆ ਸਿਹਤ ਸੇਵਾ ਸਕੀਮ (2020-21) |
+|                |            |                      |                                  |
+
+** STNA Relief
+
+| Number                           |       Date | Title/Link                | Subject                                                                         |
+|----------------------------------+------------+---------------------------+---------------------------------------------------------------------------------|
+| ਰਸਸ/ਰਿਣ-1/ਸੀ.ਈ-2/234/2465        | 02-03-2020 | [[file:docs/stna_relief.pdf][STNA Relief Notification]]  | ਪੰਜਾਬ ਵਿਧਾਨ ਸਭਾ ਦੇ ਬਜਟ ਸੈਸ਼ਨ ਦੌਰਾਨ ਐਲਾਨ  ਮੁਬ:520.00 ਕਰੋੜ ਰੁ: ਦੀ ਕਰਜਾ ਰਾਹਤ ਦੇਣ ਬਾਰੇ        |
+| RCS/Credit-1/CA2/Debt Waiver/128 | 08-03-2019 | [[file:docs/stna_rcs.pdf][Implementation Guidelines]] | Debt Relief Scheme for Farm Labourers and Landless Farming Members of PACS-2019 |
+
+
+** Debt Relief 2017
+
+| Number | Date | Title/Link             | Subject |
+|--------+------+------------------------+---------|
+|        |      | [[file:docs/debt_relief_self_declaration.pdf][Self Declaration forms]] |         |
+
+* Credit Policies
+
+| Number               |       Date | Title/Link               | Subject                                                             |
+|----------------------+------------+--------------------------+---------------------------------------------------------------------|
+| ਰਸਸ/ਰਿਣ-1/ਸੀ.ਈ-2/211 | 26-04-2019 | [[file:docs/scale_2019-20.pdf][Scale of Finance 2019-20]] | ਸਾਲ 2019-20 ਦੇ ਲਈ ਥੋੜੀ ਮਿਆਦ ਦੇ ਫਸਲੀ ਕਰਜਿਆਂ ਲਈ ਸਕੇਲ ਆਫ ਫਾਇਨਾਂਸ ਸੋਧ ਕਰਨ ਸਬੰਧੀ |
+|                      |            |                          |                                                                     |
+
+
+* Recruitment & Service Matters of Officers of Societies
+
+* Inspectors
+
+| Number                  |       Date | Title/Link     | Subject                                 |
+|-------------------------+------------+----------------+-----------------------------------------|
+| 70/65/2016/-ਸੀ2(1)/1244 | 18-02-2020 | [[file:docs/seniority_2010-15.pdf][Seniority List]] | Orders of Punjab Govt (ACS Cooperation) |
+|                         |            |                |                                         |
